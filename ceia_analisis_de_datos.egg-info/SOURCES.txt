@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+ceia_analisis_de_datos.egg-info/PKG-INFO
+ceia_analisis_de_datos.egg-info/SOURCES.txt
+ceia_analisis_de_datos.egg-info/dependency_links.txt
+ceia_analisis_de_datos.egg-info/requires.txt
+ceia_analisis_de_datos.egg-info/top_level.txt
